@@ -1,0 +1,31 @@
+
+.input_Danger {
+    border :1px solid red;
+    color:red;
+}
+.inputError{
+    font-size: 10px;
+    color:red;
+    font-size:12px;
+    margin-left:50px;
+}
+
+.formClass {
+    padding-top: 5%;
+}
+
+.inputOrDescError {
+    border:2px solid red;
+    
+
+
+}
+.list-group {
+    margin-top:50px;
+}
+
+.btnUl {
+    width:100px;
+    margin-left:70px;
+    
+}
